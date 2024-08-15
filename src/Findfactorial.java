@@ -1,5 +1,5 @@
 
-/*import java.util.*;
+import java.util.*;
 
 public class Findfactorial {
     private static long Calculatefactorial(int n){
@@ -23,4 +23,4 @@ public class Findfactorial {
             System.out.println("Factorial of"+number+"is:"+factorial);
         }
     }
-}*/
+}
